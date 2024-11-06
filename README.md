@@ -1,6 +1,6 @@
 
 <h1 align="left">Hello, world 👋🏾, I'm Romão Quilamiquiza</h1>
-<p align="left">I'm a DevOps and Software Engineer student at 42Luanda.</p>
+<p align="left">I'm a beginer DevOps and Software Engineer student at 42Luanda.</p>
 
 <img align="right" alt="coding" width="370" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 <p align="left">
