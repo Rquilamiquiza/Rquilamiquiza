@@ -13,13 +13,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rquilamiquiza&show_icons=true&locale=en" alt="rquilamiquiza" /></p>
 
-- 🚀 I’m currently learning **Machine Learning and Deep Learning |**
+- 🚀 I’m currently learning **Machine Learning |**
 
 
 <h3 align="left">Languages</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,py,linux,git,kubernetes,docker,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,py, django, linux,git,kubernetes,docker,mysql" />
   </a>
 </p>
 
