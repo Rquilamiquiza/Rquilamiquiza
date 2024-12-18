@@ -2,7 +2,7 @@
 <h1 align="left">Hello, world 👋🏾, I'm Romão Quilamiquiza</h1>
 <p align="left">I'm a beginer DevOps and Software Engineer student at 42Luanda.</p>
 
-<img align="right" alt="coding" width="370" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rquilami?1337Badge=off&UM6P=off" alt="rquilami's 42 stats" /></a>
 <p align="left">
   <a href="https://www.linkedin.com/in/rom%C3%A3o-quilamiquiza-4767092b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="romaoquilamiquiza"/>
