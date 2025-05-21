@@ -1,6 +1,6 @@
 
 <h1 align="left">Hello, world 👋🏾, I'm Romão Quilamiquiza</h1>
-<p align="left">I'm a beginer DevOps and Software Engineer student at 42Luanda.</p>
+<p align="left">I'm DevOps and Software Engineer student at 42Luanda.</p>
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rquilami?1337Badge=off&UM6P=off" alt="rquilami's 42 stats" /></a>
 <p align="left">
