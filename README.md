@@ -19,7 +19,7 @@
 <h3 align="left">Languages</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,py,django,linux,git,kubernetes,docker,ansible,aws,terraform" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,py,django,html, css, tailwind, linux,git,kubernetes,docker,ansible,aws,terraform" />
   </a>
 </p>
 
