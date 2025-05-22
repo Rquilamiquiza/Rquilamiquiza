@@ -7,7 +7,8 @@
   <a href="https://www.linkedin.com/in/rom%C3%A3o-quilamiquiza-4767092b1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Romão Quilamiquiza />
   </a>
-      <a href="https://discord.com/channels/@me/" target="_blank">
+      
+  <a href="https://discord.com/channels/@me/" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Romão Quilamiquiza />
   </a>
 </p>
