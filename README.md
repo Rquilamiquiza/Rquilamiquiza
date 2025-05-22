@@ -5,7 +5,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rquilami?1337Badge=off&UM6P=off" alt="rquilami's 42 stats" /></a>
 <p align="left">
   <a href="https://www.linkedin.com/in/rom%C3%A3o-quilamiquiza-4767092b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="romaoquilamiquiza"/>
+    <img src="https://skillicons.dev/icons?i=c,linkedin" alt="Romão Quilamiquiza />
   </a>
 </p>
 
