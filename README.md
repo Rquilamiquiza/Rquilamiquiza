@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Romão Quilamiquiza />
   </a>
       <a href="https://discord.com/channels/@me/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=diskord" alt="Romão Quilamiquiza />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Romão Quilamiquiza />
   </a>
 </p>
 
