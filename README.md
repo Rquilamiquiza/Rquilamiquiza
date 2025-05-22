@@ -13,13 +13,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rquilamiquiza&show_icons=true&locale=en" alt="rquilamiquiza" /></p>
 
-- 🚀 I’m currently learning **Machine Learning |**
-
 
 <h3 align="left">Tools and working languages ​​that I use</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,django,html,css, tailwind,linux,bash,git,kubernetes,docker,ansible,aws,terraform" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,django,html,css,tailwind,linux,bash,git,kubernetes,docker,ansible,aws,terraform" />
   </a>
 </p>
 
