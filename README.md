@@ -23,7 +23,7 @@
 <h3 align="left">Tools and working languages ​​that I use</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,django,html,css,tailwind,linux,bash,git,kubernetes,docker,ansible,aws,terraform" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,django,html,css,tailwind,react,linux,bash,git,compose,docker,ansible,grafana,prometheus" />
   </a>
 </p>
 
