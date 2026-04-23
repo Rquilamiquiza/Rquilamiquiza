@@ -15,6 +15,12 @@
   </a>
 </p>
 
+<p align="left">     
+  <a href="https://www.rquilamiquiza.tech/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=web" alt="Romão Quilamiquiza />
+  </a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rquilamiquiza&show_icons=true&locale=en&layout=compact" alt="rquilamiquiza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rquilamiquiza&show_icons=true&locale=en" alt="rquilamiquiza" /></p>
