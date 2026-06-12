@@ -1,8 +1,7 @@
 
 <h1 align="left">Hello, world 👋🏾, I'm Romão Quilamiquiza</h1>
-<p align="left">I'm DevOps and Software Engineer student at 42Luanda.</p>
+<p align="left">I'm Software Engineer.</p>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rquilami?1337Badge=off&UM6P=off" alt="rquilami's 42 stats" /></a>
 <p align="left">
   <a href="https://www.linkedin.com/in/rom%C3%A3o-quilamiquiza-4767092b1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Romão Quilamiquiza />
@@ -23,7 +22,7 @@
 <h3 align="left">Tools and working languages ​​that I use</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,django,html,css,tailwind,react,linux,bash,git,github,docker,ansible,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,django,html,css,tailwind,react,linux,bash,git,github,docker,aws,grafana,prometheus" />
   </a>
 </p>
 
