@@ -14,18 +14,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rquilamiquiza&show_icons=true&locale=en&layout=compact" alt="rquilamiquiza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rquilamiquiza&show_icons=true&locale=en" alt="rquilamiquiza" /></p>
-
-
-<h3 align="left">Tools and working languages ​​that I use</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,django,html,css,tailwind,react,linux,bash,git,github,docker,aws,grafana,prometheus" />
-  </a>
-</p>
-
 
 
 
